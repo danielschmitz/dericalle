@@ -13,7 +13,7 @@ import { RippleModule } from 'primeng/ripple';
         >
             <div class="mx-6 md:mx-20 mt-0 md:mt-6">
                 <h1 class="text-6xl font-bold text-gray-900 leading-tight"><span class="font-light block">Potencialize</span>&nbsp;&nbsp;&nbsp;seu negócio online</h1>
-                <p class="font-normal text-2xl leading-normal md:mt-4 text-gray-700">Com a DigiMarket você transforma sua presença digital e aumenta suas conversões.</p>
+                <p class="font-normal text-2xl leading-normal md:mt-4 text-gray-700">Com a Dericalli você transforma sua presença digital e aumenta suas conversões.</p>
                 <p class="font-normal text-1xl leading-normal md:mt-4 text-gray-700">Estratégias personalizadas. Resultados mensuráveis. Crescimento contínuo.</p>
                 <button pButton pRipple [rounded]="true" type="button" label="Impulsione agora" class="!text-xl mt-8 !px-4"></button>
             </div>
