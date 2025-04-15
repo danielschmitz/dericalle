@@ -176,7 +176,7 @@ export class AppMenu {
                     {
                         label: 'View Source',
                         icon: 'pi pi-fw pi-github',
-                        url: 'https://github.com/primefaces/xik',
+                        url: 'https://github.com/primefaces/dericalli',
                         target: '_blank'
                     }
                 ]

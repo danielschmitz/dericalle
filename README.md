@@ -1,6 +1,6 @@
 # Sakai19
 
-[demo](https://danielschmitz.github.io/xik/)
+[demo](https://danielschmitz.github.io/dericalli/)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
 
