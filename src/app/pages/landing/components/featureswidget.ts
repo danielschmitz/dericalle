@@ -128,7 +128,7 @@ import { CommonModule } from '@angular/common';
                     <div class="text-gray-900 mb-2 text-3xl font-semibold">Rafael Mendes</div>
                     <span class="text-gray-600 text-2xl">CEO da Tech Solutions</span>
                     <p class="text-gray-900 sm:line-height-2 md:line-height-4 text-2xl mt-6" style="max-width: 800px">
-                        "A Dericalli transformou completamente nossa presença online. Em apenas 3 meses, aumentamos nosso tráfego orgânico em 150% e as conversões cresceram 85%. A equipe é extremamente profissional e os resultados superaram todas as nossas expectativas!"
+                        "A dericalle transformou completamente nossa presença online. Em apenas 3 meses, aumentamos nosso tráfego orgânico em 150% e as conversões cresceram 85%. A equipe é extremamente profissional e os resultados superaram todas as nossas expectativas!"
                     </p>
                 </div>
             </div>
