@@ -18,34 +18,34 @@ import { LogoComponent } from "../../../layout/component/logo";
                 <div class="col-span-12 md:col-span-10">
                     <div class="grid grid-cols-12 gap-8 text-center md:text-left">
                         <div class="col-span-12 md:col-span-3">
-                            <h4 class="font-medium text-2xl leading-normal mb-6 text-surface-900 dark:text-surface-0">Empresa</h4>
-                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Sobre Nós</a>
-                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Notícias</a>
-                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Relações com Investidores</a>
-                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Carreiras</a>
-                            <a class="leading-normal text-xl block cursor-pointer text-surface-700 dark:text-surface-100">Kit de Mídia</a>
+                            <h4 class="font-medium text-2xl leading-normal mb-6 text-surface-900 dark:text-surface-0">Serviços</h4>
+                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">SEO & SEM</a>
+                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Social Media</a>
+                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Email Marketing</a>
+                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Web Design</a>
+                            <a class="leading-normal text-xl block cursor-pointer text-surface-700 dark:text-surface-100">Gestão de Anúncios</a>
                         </div>
 
                         <div class="col-span-12 md:col-span-3">
                             <h4 class="font-medium text-2xl leading-normal mb-6 text-surface-900 dark:text-surface-0">Recursos</h4>
-                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Começar</a>
-                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Aprender</a>
+                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Guias & Tutoriais</a>
+                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Webinars</a>
                             <a class="leading-normal text-xl block cursor-pointer text-surface-700 dark:text-surface-100">Casos de Sucesso</a>
                         </div>
 
                         <div class="col-span-12 md:col-span-3">
-                            <h4 class="font-medium text-2xl leading-normal mb-6 text-surface-900 dark:text-surface-0">Comunidade</h4>
-                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Discord</a>
+                            <h4 class="font-medium text-2xl leading-normal mb-6 text-surface-900 dark:text-surface-0">DigiMarket</h4>
+                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Sobre nós</a>
                             <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Eventos<img src="https://primefaces.org/cdn/templates/sakai/landing/new-badge.svg" alt="badge" class="ml-2" /></a>
-                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">FAQ</a>
+                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Carreiras</a>
                             <a class="leading-normal text-xl block cursor-pointer text-surface-700 dark:text-surface-100">Blog</a>
                         </div>
 
                         <div class="col-span-12 md:col-span-3">
-                            <h4 class="font-medium text-2xl leading-normal mb-6 text-surface-900 dark:text-surface-0">Legal</h4>
-                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Política da Marca</a>
-                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">Política de Privacidade</a>
-                            <a class="leading-normal text-xl block cursor-pointer text-surface-700 dark:text-surface-100">Termos de Serviço</a>
+                            <h4 class="font-medium text-2xl leading-normal mb-6 text-surface-900 dark:text-surface-0">Contato</h4>
+                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">contato&#64;digimarket.com</a>
+                            <a class="leading-normal text-xl block cursor-pointer mb-2 text-surface-700 dark:text-surface-100">+55 (11) 4002-8922</a>
+                            <a class="leading-normal text-xl block cursor-pointer text-surface-700 dark:text-surface-100">Política de Privacidade</a>
                         </div>
                     </div>
                 </div>
