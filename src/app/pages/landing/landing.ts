@@ -35,7 +35,7 @@ export class Landing implements OnInit {
     auth = inject(AuthService);
 
     ngOnInit(): void {
-        //this.auth.helloWorld().subscribe();
+        ////this.auth.helloWorld().subscribe();
     }
 }
     
